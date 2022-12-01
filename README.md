@@ -1,2 +1,7 @@
 # balance-sheet
-Balance Sheet | A tutorial by freeCodeCamp | [html, css, front-end web development, tutorial]
+
+## Balance Sheet
+- Tutorial by freeCodeCamp
+
+## Tags
+html, css, front-end web development, tutorial
